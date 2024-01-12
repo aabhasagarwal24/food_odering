@@ -1,0 +1,39 @@
+{
+  "name": "food_odering",
+  "version": "1.0.0",
+  "description": "this is food odering ",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aabhasagarwal124/food_odering.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "ISC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aabhasagarwal124/food_odering/issues"
+  },
+  "homepage": "https://github.com/aabhasagarwal124/food_odering#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "postcss": "^8.4.32",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.0"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.0.4",
+    "react-router-dom": "^6.21.1"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
